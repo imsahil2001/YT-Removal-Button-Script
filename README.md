@@ -10,5 +10,6 @@ A script which removes unncessary buttons clutter in the video player on YOUTUBE
 
 ### Which buttons will get removed after using this script?
 - Autoplayer button
-- Smaller player Button
+- Miniplayer Button
 - PiP Button
+- Theatre Mode button
